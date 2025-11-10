@@ -1,15 +1,49 @@
-table{
+
+
+td{
+    text-align: center;
+    
+    padding-bottom: 20pt;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.green{
+    background-color: chartreuse;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.aqua{
+    background-color:aquamarine;
+}
+.bisque{
+    background-color:bisque;
+}
+
+.table1{
     border-collapse: collapse;
     text-align: center;
     border-style: solid;
     border-width: 1px;
     border-color: black;
+    width: 320pt;
 }
 
-td{
+.table2{
+    border-collapse: collapse;
     text-align: center;
-    padding-right: 60pt;
-    padding-bottom: 20pt;
     border-style: solid;
     border-width: 1px;
+    border-color: black;
+    width: 180pt;
+}
+.tab2{
+    padding-top: 20pt;
 }

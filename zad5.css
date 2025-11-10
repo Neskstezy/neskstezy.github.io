@@ -1,0 +1,23 @@
+.but{
+    text-align: right;
+}
+
+.div1{
+    border-style: groove;
+}
+
+.div2{
+    border-style: groove;
+    margin-top: 20pt;
+}
+.butt{
+    padding-top: 20pt;
+}
+text{
+    font-size: 20pt;
+}
+.but3{
+    color:cadetblue;
+    font-size: medium;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
