@@ -1,0 +1,40 @@
+.text{
+    width: 400pt;
+}
+
+.par2{
+    text-align: right;
+    text-indent: 20pt;
+}
+
+table{
+    border-color: black;
+    border-style:solid;
+    border-width: 1pt;
+    
+}
+td{
+    border-color: black;
+    border-style:solid;
+    border-width: 1pt;
+    width: 70pt;
+}
+
+#poleraz{
+    font-family: monotype corsiva;
+}
+
+#poledva{
+    color: white;
+    font-family: verdana;
+}
+#poletri{
+    color: blue;
+    font-family: verdana;
+}
+#polechet{
+    font-family: sans-serif;
+}
+#polepyat{
+    
+}
